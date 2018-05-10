@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "951661060639",
+    "project_number": "<project number here>",
     "firebase_url": "https://mpesatrial.firebaseio.com",
-    "project_id": "mpesatrial",
+    "project_id": "<project id here>",
     "storage_bucket": "mpesatrial.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:951661060639:android:09227c4da56c2051",
+        "mobilesdk_app_id": "<mobile sdk app id here>",
         "android_client_info": {
           "package_name": "com.esau.mpesatrial"
         }
       },
       "oauth_client": [
         {
-          "client_id": "951661060639-edsdjrgthepdidu7da2qek3kimf0hniu.apps.googleusercontent.com",
+          "client_id": "<client id here>",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBkiSzQ4GzOsAEZuwqcgKoYREv_hqfytu4"
+          "current_key": "<current key here>"
         }
       ],
       "services": {
